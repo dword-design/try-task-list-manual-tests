@@ -1,0 +1,11 @@
+{
+  "name": "try-task-list-manual-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design/try-task-list-manual-tests.git",
+  "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "license": "MIT",
+  "dependencies": {
+    "globby": "^10"
+  }
+}
