@@ -6,6 +6,6 @@
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "license": "MIT",
   "dependencies": {
-    "globby": "^10"
+    "globby": "^14.0.0"
   }
 }
